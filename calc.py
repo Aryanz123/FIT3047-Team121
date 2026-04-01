@@ -1,3 +1,6 @@
+print("From Team 121")
+print("Welcome from Aryan")
+
 # Perform simple arithmetic encoded in an input string:
 # '1 + 2' -> 3, or '1 - 2' -> -1.
 def compute(expression):
